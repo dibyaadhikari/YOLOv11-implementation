@@ -1,0 +1,6 @@
+train: /home/ilab/Documents/Computer_Vision_Research/YOLOV11/new_split_data/train
+val: /home/ilab/Documents/Computer_Vision_Research/YOLOV11/new_split_data/test
+
+nc: 1
+
+names: [character]
