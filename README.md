@@ -6,7 +6,7 @@ Step 1: Create a virtual environment and activate it.
 
 Step 2: Install dependencies
 
-	pip install -r requirement.txt
+	pip install -r requirements.txt
 	
 Run training: 
 
